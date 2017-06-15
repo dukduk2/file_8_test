@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h1>MASTER</h1>
+	<ul>
+		<li>suzy</li>
+	</ul>
 </body>
 </html>
